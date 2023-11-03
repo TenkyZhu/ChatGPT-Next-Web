@@ -148,7 +148,7 @@ export function SideBar(props: { className?: string }) {
           Tenky’s ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Tenky Up Up Up.
+          Tenky Up Up Up!
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
